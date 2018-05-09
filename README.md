@@ -1,5 +1,5 @@
 
-# Make a Story
+# Storyboard
 
 Squeeze the metal clips in any order to create a story that will always make sense.
 
@@ -34,7 +34,7 @@ Outputs:
 - Laptop (Audio)
 - Processing
 
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
+<img src="blockdiagram.jpg">"
 
 ## Challenges
 
@@ -48,13 +48,13 @@ What did you do in each of the past five weeks?
 
 - Week 1: Write proposal
 - Week 2: Work on Simon project (LEDs, buttons)
-- Week 3: Pivot to "Make a Story" (create concept and audio)
+- Week 3: Pivot to "Storyboard" (create concept and audio)
 - Week 4: Code and Assemble
 - Week 5: Present!
 
 ## Completed Work
 
-Photos and videos of your completed final project!
+<img src="storyboard.jpg">
 
 ## References and links
 
