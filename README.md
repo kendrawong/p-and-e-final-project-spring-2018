@@ -1,7 +1,7 @@
 
 # Storyboard
 
-Squeeze the metal clips in any order to create a story that will always make sense.
+Play the four audio clips in any order to create a story that will always make sense.
 
 ## Summary
 
