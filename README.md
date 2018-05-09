@@ -32,7 +32,7 @@ Inputs:
 
 Outputs:
 - Laptop (Audio)
-- Processing
+- Processing (Data)
 
 <img src="blockdiagram.JPG">
 
