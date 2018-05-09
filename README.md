@@ -54,6 +54,7 @@ What did you do in each of the past five weeks?
 
 ## Completed Work
 
+Included in the repository are the four sound files and a video of how the alligator clips work when pinched/squeezed (without the foam core attached).
 <img src="storyboard.jpg">
 
 ## References and links
