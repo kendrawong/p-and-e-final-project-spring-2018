@@ -34,7 +34,7 @@ Outputs:
 - Laptop (Audio)
 - Processing
 
-<img src="blockdiagram.jpg">
+<img src="blockdiagram.JPG">
 
 ## Challenges
 
